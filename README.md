@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 <!--
-**NaagAlgates/NaagAlgates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NaagAlgates/NaagAlgates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 I'm a Senior Software Engineer at [XAM](https://www.xam.com.au)
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a client project
 - 🌱 I’m currently learning Dart & Flutter's best practise, CI/CD 
@@ -15,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.nagaraj.com.au
 - 😄 Pronouns: Nag / Naag
 - ⚡ Fun fact: An espresso maker was sent into space in 2015
--->
+
