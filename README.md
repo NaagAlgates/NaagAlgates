@@ -25,6 +25,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to build, sign, and distribute your Android App using Azure Pipelines? [Explained]](https://dev.to/naagalgates/how-to-build-sign-and-distribute-your-android-app-using-azure-pipelines-2d8f)
+- [Android Studio 4.1: Embedded Emulator](https://dev.to/naagalgates/android-studio-4-1-embedded-emulator-212d)
+- [Why Flutter Renders Quickly?](https://dev.to/naagalgates/why-flutter-renders-quickly-26lk)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
