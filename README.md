@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nagaraj Alagusundaram</h1>
-<h3 align="center">Helping Enterprise Customers Innovate Faster with Flutter, Kotlin, Xamarin, Java & Swift</h3>
+<h3 align="center">Senior Software Engineeer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naagalgates&label=Profile%20views&color=0e75b6&style=flat" alt="naagalgates" /> </p>
 
