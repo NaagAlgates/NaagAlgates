@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nalagusundaram" target="blank"><img src="https://img.shields.io/twitter/follow/nalagusundaram?logo=twitter&style=for-the-badge" alt="nalagusundaram" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Permission](https://github.com/NaagAlgates/flutter_permission_using_bloc)
+- 🔭 I’m currently working on [2048](https://github.com/NaagAlgates/2048)
 
 - 🌱 I’m currently learning **Dart & Flutter's best practise, GitHub Actions**
 
